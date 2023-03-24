@@ -1,0 +1,15 @@
+{
+    "id": "google-auth",
+    "name": "Google Auth",
+    "description": "Implement a google authentication",
+    "version": "1.0.0",
+    "url": "https://github.com/lapetitehanae/Plugin-Google-Auth-Azuriom",
+    "authors": [
+        "lapetitehanaé"
+    ],
+    "azuriom_api": "1.0.0",
+    "providers": [
+        "\\Azuriom\\Plugin\\GoogleAuth\\Providers\\GoogleAuthServiceProvider",
+        "\\Azuriom\\Plugin\\GoogleAuth\\Providers\\RouteServiceProvider"
+    ]
+}
